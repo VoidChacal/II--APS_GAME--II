@@ -43,5 +43,5 @@ As ferramentas utilizadas para o desenvolvimento foram:
 
 ## 🧍‍♂️ Personagem Principal
 
-![Sprite do Personagem](./assets/Player_Moviment.png)  
+![Sprite do Personagem](./Alpha_Game/assets/Player/Player_Moviment.png)  
 *Sprite sheet com os frames de movimentação e ações do jogador.*
