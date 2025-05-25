@@ -45,3 +45,15 @@ As ferramentas utilizadas para o desenvolvimento foram:
 
 ![Sprite do Personagem](./Alpha_Game/assets/Player/Player_Moviment.png)  
 *Sprite sheet com os frames de movimentação e ações do jogador.*
+
+---
+
+♻️ Tema: Conscientização Ambiental
+Este jogo visa despertar a atenção para os impactos do lixo no planeta, promovendo de forma interativa a preservação do meio ambiente.
+
+---
+
+📜 Licença
+Este projeto é apenas para fins educacionais e sem fins lucrativos. Os direitos dos assets pertencem aos seus respectivos autores.
+
+---
