@@ -1,0 +1,13 @@
+.gitkeep
+Enemy/Enemy.png
+Player/stand1.png
+Player/standL.png
+Player/standR.png
+Player/standWalk1.png
+Player/standWalk2.png
+Player/standWalkL1.png
+Player/standWalkL2.png
+Player/standWalkR1.png
+Player/standWalkR2.png
+backgroudForest.jpg
+backgroundForest2.png
