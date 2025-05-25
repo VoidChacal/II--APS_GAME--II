@@ -48,12 +48,12 @@ As ferramentas utilizadas para o desenvolvimento foram:
 
 ---
 
-♻️ Tema: Conscientização Ambiental
+## ♻️ Tema: Conscientização Ambiental
 Este jogo visa despertar a atenção para os impactos do lixo no planeta, promovendo de forma interativa a preservação do meio ambiente.
 
 ---
 
-📜 Licença
+## 📜 Licença
 Este projeto é apenas para fins educacionais e sem fins lucrativos. Os direitos dos assets pertencem aos seus respectivos autores.
 
 ---
