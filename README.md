@@ -14,6 +14,7 @@ Um jogo em desenvolvimento com o tema **Meio Ambiente**, onde o jogador veste um
   ✔️ Cenário implementado (WIP)  
   ✔️ Movimentação do jogador funcional  
   ❌ Sistema de vida ainda não implementado (WIP)
+
   ❌ Armas e combate pendentes (WIP)  
   ❌ Menu inicial e efeitos sonoros em desenvolvimento
 
